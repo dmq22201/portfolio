@@ -90,9 +90,9 @@ const AppLayout: React.FunctionComponent = () => {
 
         <ButtonTheme onClick={toggleTheme}>
           {isDarkTheme ? (
-            <img src="/light-mode.png" />
+            <img src="./light-mode.png" />
           ) : (
-            <img src="/dark-mode.png" />
+            <img src="./dark-mode.png" />
           )}
         </ButtonTheme>
       </StyledAppLayout>
