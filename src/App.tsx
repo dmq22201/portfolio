@@ -8,7 +8,7 @@ import Contact from "./pages/Contact/Contact";
 
 const App: React.FunctionComponent = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={"/portfolio/"}>
       <GlobalStyle />
       <Routes>
         <Route path="/" element={<AppLayout />}>
