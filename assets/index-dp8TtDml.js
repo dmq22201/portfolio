@@ -188,7 +188,7 @@ Error generating stack: `+o.message+`
   font-size: 2.4rem;
 `,a1=M.p`
   font-size: 1.4rem;
-`,ap=()=>_.jsx(l1,{children:_.jsx(za,{children:_.jsxs(o1,{children:[_.jsx(i1,{src:"/avatar.jpg",alt:"Avatar of Minh Quyen"}),_.jsx(u1,{children:"Minh Quyen"}),_.jsx(a1,{children:"I'm just a Front-End Intern and self learning. And trying fullstack"})]})})}),s1=M.aside`
+`,ap=()=>_.jsx(l1,{children:_.jsx(za,{children:_.jsxs(o1,{children:[_.jsx(i1,{src:"./avatar.jpg",alt:"Avatar of Minh Quyen"}),_.jsx(u1,{children:"Minh Quyen"}),_.jsx(a1,{children:"I'm just a Front-End Intern and self learning. And trying fullstack"})]})})}),s1=M.aside`
   display: flex;
   flex-direction: column;
   gap: 4rem;
