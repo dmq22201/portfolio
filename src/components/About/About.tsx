@@ -40,7 +40,7 @@ const About: React.FunctionComponent = () => {
     <StyledAbout>
       <Container>
         <AboutWrapper>
-          <Avatar src="/avatar.jpg" alt="Avatar of Minh Quyen" />
+          <Avatar src="./avatar.jpg" alt="Avatar of Minh Quyen" />
           <Name>Minh Quyen</Name>
           <Message>
             I'm just a Front-End Intern and self learning. And trying fullstack
